@@ -3,6 +3,12 @@
   transition-duration: 2.5s;
 }
 
+.to {
+  font-size: 24px;
+  text-indent: 40px;
+  font-weight: bold;
+}
+
 @media only screen and (min-width: 768px) {
   .first {
     background-image: url("docu/Desktop.jpg");
